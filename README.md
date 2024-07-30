@@ -9,7 +9,7 @@
 
 - **Languages:** Python, SQL, R, C++
 - **Data Science & Machine Learning:** Scikit-learn, Pandas, NumPy, TensorFlow, Keras
-- **Tools & Platforms:** Git, GitHub, Jupyter, VS Code, Tableau, Power BI
+- **Tools & Platforms:** Git, GitHub, Jupyter, VS Code, Tableau, Power BI, AWS
 - **Other Skills:** Data Visualization, Statistical Analysis, Predictive Modeling, Optimization
 
 ## 🚀 Projects
